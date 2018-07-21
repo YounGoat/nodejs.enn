@@ -1,0 +1,34 @@
+{
+    "bin": {
+        "enn": "bin/enn.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "enn",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "name",
+        "surname",
+        "male-name",
+        "female-name",
+        "popular-english-names"
+    ],
+    "homepage": "https://github.com/YounGoat/nodejs.enn",
+    "description": "Dictionary of English Names",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/nodejs.enn.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}

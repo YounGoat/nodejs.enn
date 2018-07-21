@@ -1,0 +1,12 @@
+
+NAME
+    enn - Dictionary of English names.
+
+SYNOPSIS
+    enn [--name | -n] <name>
+    Get some of most popluar English names.
+
+OPTIONS
+    [--name | -n] <name>
+    English name with or withour wildcard. 
+    Wildcard * represents one or more characters, and wildcard ? represent only one character.
