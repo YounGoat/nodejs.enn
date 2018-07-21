@@ -1,19 +1,16 @@
-#	n9
+#	enn
 __Dictionary of English Names__
 
 >	If links in this document not avaiable, please access [README on GitHub](./README.md) directly.
 
 ##  Description
 
-##	ToC
+When you want a popular English name, __enn__ is helpful.
 
-*	[Get Started](#get-started)
-*	[API](#api)
-* 	[Examples](#examples)
-*	[Why n9](#why-n9)
-*	[Honorable Dependents](#honorable-dependents)
-*	[About](#about)
-*	[References](#references)
+##	Table of Contents
+
+* [Links](#links)
+* [Get Started](#get-started)
 
 ##	Links
 
@@ -22,18 +19,13 @@ __Dictionary of English Names__
 
 ##	Get Started
 
-```javascript
-const n9 = require('n9');
+```bash
+# Install the package globally.
+npm install -g enn
+
+# Run it.
+enn --name J*
 ```
 
-##	API
-
-##  Examples
-
-##  Why *n9*
-
-##  Honorable Dependents
-
-##  About
-
-##  References
+The following is some example output of command `enn`:  
+![enn](./docs/demo.png)
